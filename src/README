@@ -1,0 +1,14 @@
+Ejercicio 1: Carrera de Caballos
+Un programa que simula una carrera de caballos con 10 caballos. Cada caballo recorre una distancia de 5 km con descansos de 200 ms en cada paso de 100 metros.
+
+Ejercicio 2: Entrenadores y Pokémons
+Un programa que crea N/2 Pokémons y N/2 entrenadores. Cada Pokémon muestra su mensaje después de su correspondiente entrenador.
+
+Ejercicio 3: Carrera Chetada de Caballos
+Una modificación del Ejercicio 1 para hacer que el último caballo llegue primero y el primer caballo llegue último.
+
+Ejercicio 4: Carrera de Caballos Interrumpida
+Una modificación del Ejercicio 1 para incluir un juez que aleatoriamente descalifica a 5 caballos. Un caballo descalificado abandona la carrera.
+
+Ejercicio 5: Carrera de Animales
+Un programa que simula una carrera con 4 tortugas, 3 conejos y un guepardo. Cada animal recorre una distancia de 3 km con descansos de 100 ms en cada paso de 100 metros.
